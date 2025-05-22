@@ -45,7 +45,7 @@ body{
         grid-template-columns: 1fr 1fr;
         justify-content: center;
         align-items: center;
-        gap: 10px;
+        gap: 20px;
         .link-button{
             a{
                 padding: 5px 15px;

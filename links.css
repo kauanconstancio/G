@@ -48,7 +48,7 @@ body{
         gap: 30px;
         .link-button{
             a{
-                padding: 5px 20px;
+                padding: 5px 15px;
                 border-radius: 16px;
                 color: var(--backgroung-color);
                 background-color: var(--text-color);

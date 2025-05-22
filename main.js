@@ -52,8 +52,8 @@ let dados = [
         link: "https://www.instagram.com/reel/DGtLm1pv-7G/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
-        nome: "Ansiedade",
-        link: "https://www.instagram.com/reel/DHe2L5Bx7zC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        nome: "Minha Vida",
+        link: "https://www.instagram.com/reel/DJo25dquGvl/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
         nome: "Nao da..",

@@ -31,16 +31,30 @@ body .nav {
 body .nav a {
   font-size: 16px;
   padding: 5px 20px;
-  background-color: var(--text-color);
-  border-radius: 16px;
-  color: var(--backgroung-color);
+  border: 1px solid var(--text-color);
+  border-radius: 8px;
+  color: var(--text-color);
 }
 body h1 {
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
   margin-bottom: 100px;
+  margin-top: 50px;
+}
+body #arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  margin-bottom: 300px;
+}
+body h3 {
+  border: 1px solid var(--text-color);
+  padding: 15px;
+  border-radius: 4px;
 }
 body h2 {
-  color: green;
+  margin-top: 100px;
   text-align: center;
+  margin-bottom: 50px;
 }/*# sourceMappingURL=style.css.map */

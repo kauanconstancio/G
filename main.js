@@ -59,6 +59,42 @@ let dados = [
         nome: "Nao da..",
         link: "https://www.instagram.com/reel/DGJlwMURcIK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
+    {
+        nome: "Nunca",
+        link: "https://www.instagram.com/reel/DJ42ZLzOrfn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Talvez não entenda",
+        link: "https://www.instagram.com/reel/DGiyBj1BH_D/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Se você visse",
+        link: "https://www.instagram.com/reel/DJXhrY1Jlng/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Coração e alma",
+        link: "https://www.instagram.com/reel/DHGvBN2vMOL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Caso amanhã..",
+        link: "https://www.instagram.com/reel/DJ7toCUPtrc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Como a noite",
+        link: "https://www.instagram.com/reel/DEix3o8JTAW/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Hey you..",
+        link: "https://www.instagram.com/reel/DE-vd2XRh84/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Em 100 vidas",
+        link: "https://www.instagram.com/reel/DFY3v5DseLJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Sempre estarei..",
+        link: "https://www.instagram.com/reel/DEXoWIYuOgn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
 ]
 
 let linksButtons = document.getElementById('linksButtons');

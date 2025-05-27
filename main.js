@@ -1,10 +1,6 @@
 let dados = [
     {
-        nome: "Se soubesse",
-        link: "https://www.instagram.com/reel/DGDEdiBxY-0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-    },
-    {
-        nome: "Nao sei ao certo",
+        nome: "Não sei ao certo",
         link: "https://www.instagram.com/reel/DHr7c-OgVKD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
@@ -32,7 +28,7 @@ let dados = [
         link: "https://www.instagram.com/reel/DFokkUSAUht/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
-        nome: "Eu Prometi..",
+        nome: "Em outra vida..",
         link: "https://www.instagram.com/reel/DH25vCpurmE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
@@ -44,7 +40,7 @@ let dados = [
         link: "https://www.instagram.com/reel/DIPsCggSRZh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
-        nome: "Tudo em Voce..",
+        nome: "Tudo em Você..",
         link: "https://www.instagram.com/reel/DB7pvATAmgU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
@@ -56,7 +52,7 @@ let dados = [
         link: "https://www.instagram.com/reel/DJo25dquGvl/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
-        nome: "Nao da..",
+        nome: "Não da..",
         link: "https://www.instagram.com/reel/DGJlwMURcIK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {

@@ -29,11 +29,13 @@ body .nav {
   gap: 20px;
 }
 body .nav a {
+  text-align: center;
   font-size: 16px;
   padding: 5px 20px;
   border: 1px solid var(--text-color);
   border-radius: 8px;
   color: var(--text-color);
+  width: 120px;
 }
 body h1 {
   font-size: 20px;

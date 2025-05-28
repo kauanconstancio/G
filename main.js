@@ -91,6 +91,22 @@ let dados = [
         nome: "Sempre estarei..",
         link: "https://www.instagram.com/reel/DEXoWIYuOgn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
+    {
+        nome: "Sempre foi você",
+        link: "https://www.instagram.com/reel/DDH2N8bx2H1/?utm_source=ig_web_copy_link",
+    },
+    {
+        nome: "Oh Darling..",
+        link: "https://www.instagram.com/reel/DG1QgTKpqiu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Porque?",
+        link: "https://www.instagram.com/reel/C2_A1JGtXcM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Faz parte deles",
+        link: "https://www.instagram.com/reel/DFMC_ucuXg0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
 ]
 
 let linksButtons = document.getElementById('linksButtons');

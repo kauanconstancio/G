@@ -98,7 +98,7 @@ let linksButtons = document.getElementById('linksButtons');
 for (let video of dados) {
     linksButtons.innerHTML += `
     <div class="link-button">
-        <a href="${video.link}">${video.nome}</a>
+        <a href="${video.link}" target="_blank">${video.nome}</a>
     </div>
     `
 }

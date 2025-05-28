@@ -48,7 +48,7 @@ body #arrow {
   align-items: center;
   justify-content: center;
   font-size: 40px;
-  margin-bottom: 300px;
+  margin-bottom: 50px;
 }
 body .links-buttons {
   display: grid;
@@ -56,7 +56,7 @@ body .links-buttons {
   row-gap: 30px;
   -moz-column-gap: 30px;
        column-gap: 30px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 body .links-buttons a {
   display: flex;
@@ -66,4 +66,20 @@ body .links-buttons a {
   border-radius: 4px;
   width: 100%;
   font-size: 12px;
+}
+body h3 {
+  text-align: center;
+  padding: 15px;
+  border-radius: 4px;
+  font-size: 18px;
+}
+body .linksInsta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+body .linksInsta a {
+  padding: 10px;
+  font-size: 30px;
 }/*# sourceMappingURL=links.css.map */

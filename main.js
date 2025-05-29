@@ -4,6 +4,10 @@ let dados = [
         link: "https://www.instagram.com/reel/DHr7c-OgVKD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
+        nome: "Suas Perfeições..",
+        link: "https://www.instagram.com/reel/DF1B-eFpo7S/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
         nome: "Saudade",
         link: "https://www.instagram.com/reel/DGUnFUbusHT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
@@ -114,6 +118,10 @@ let dados = [
     {
         nome: "Sofri Tanto",
         link: "https://www.instagram.com/reel/DDW1OfZxtK9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Se for real..",
+        link: "https://www.instagram.com/reel/DKCwt2DgFU6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
 ]
 

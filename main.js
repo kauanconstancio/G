@@ -107,6 +107,14 @@ let dados = [
         nome: "Faz parte deles",
         link: "https://www.instagram.com/reel/DFMC_ucuXg0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
+    {
+        nome: "Velhos tempos..",
+        link: "https://www.instagram.com/reel/DKI15xjO1bQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
+    {
+        nome: "Sofri Tanto",
+        link: "https://www.instagram.com/reel/DDW1OfZxtK9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    },
 ]
 
 let linksButtons = document.getElementById('linksButtons');
